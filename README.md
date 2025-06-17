@@ -82,7 +82,7 @@ python app.py
 ## Kurulum
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/kullaniciadiniz/Video.git
+git clone https://github.com/Tuaghmohammad/Video-Channels
 cd Video
 ```
 
@@ -168,21 +168,4 @@ Katkıda bulunmak için lütfen bir pull request gönderin.
 Bu proje [MIT Lisansı](./LICENSE) ile lisanslanmıştır.
 
 ---
-
-## Projeyi GitHub'a Yükleme
-
-1. [GitHub](https://github.com/) üzerinde yeni bir repository oluşturun (ör: `Video`).
-2. Bilgisayarınızda proje klasörüne gelin:
-   ```bash
-   cd Video
-   git remote add origin https://github.com/kullaniciadiniz/Video.git
-   git branch -M main
-   git add .
-   git commit -m "İlk proje yüklemesi"
-   git push -u origin main
-   ```
-3. Artık projeniz GitHub hesabınızda yayınlanacaktır.
-
----
-
 Her türlü soru ve destek için iletişime geçebilirsiniz. 
